@@ -695,9 +695,9 @@ dependencies = [
 
 [[package]]
 name = "json_comments"
-version = "0.2.0"
+version = "0.2.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ab25c689752fbb49903458495d3e71853229e262a2e6136325359e0705606483"
+checksum = "41ee439ee368ba4a77ac70d04f14015415af8600d6c894dc1f11bd79758c57d5"
 
 [[package]]
 name = "lazy_static"
